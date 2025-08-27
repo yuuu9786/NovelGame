@@ -1,0 +1,41 @@
+{
+  "lines": [
+    {
+      "type": "bg",
+      "content": "bg_room"
+    },
+    {
+      "type": "char_pose",
+      "poseName": "smile"
+    },
+    {
+      "type": "text",
+      "speakerName": "あかね",
+      "content": "分岐Aです"
+    },
+    {
+      "type": "text",
+      "speakerName": "あかね",
+      "content": "私が一人"
+    },
+    {
+      "type": "char_show",
+      "content": "あかね",
+      "position": "left"
+    },
+    {
+      "type": "char_pose",
+      "poseName": "normal"
+    },
+    {
+      "type": "text",
+      "speakerName": "あかね",
+      "content": "私が二人"
+    },
+    {
+      "type": "text",
+      "speakerName": "あかね",
+      "content": "双子じゃない、クローンです！"
+    }
+  ]
+}

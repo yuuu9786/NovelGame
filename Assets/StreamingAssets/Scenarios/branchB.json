@@ -1,0 +1,78 @@
+{
+  "lines": [
+    {
+      "type": "char_hide",
+      "content": "茜音",
+      "position": "center"
+    },
+    {
+      "type": "bg",
+      "content": "bg_black"
+    },
+    {
+      "type": "text",
+      "speakerName": "浩司",
+      "content": "世界は退屈なことで満ちている。\n人も、物も、出来事も、すべてが予測の範囲内だ。"
+    },
+    {
+      "type": "text",
+      "speakerName": "浩司",
+      "content": "そんな日常に、何かが投下される瞬間を、俺はずっと待っていたのかもしれない。"
+    },
+    {
+      "type": "text",
+      "speakerName": "narration",
+      "content": "顧問に頼まれた荷物を運ぶため、俺はほとんど使われていない美術準備室の扉を開けた。"
+    },
+    {
+      "type": "bg",
+      "content": "bg_culturalClubRoom"
+    },
+    {
+      "type": "text",
+      "speakerName": "narration",
+      "content": "そこに、彼女はいた。"
+    },
+    {
+      "type": "bg",
+      "content": "il_kneadingClay"
+    },
+    {
+      "type": "text",
+      "speakerName": "narration",
+      "content": "粘土の塊を、一心不乱にこね続けている。\nその姿は、異様、という言葉ですら生ぬるい。"
+    },
+    {
+      "type": "bg",
+      "content": "bg_culturalClubRoom"
+    },
+    {
+      "type": "char_show",
+      "content": "茜音",
+      "position": "center",
+      "poseName": "normal"
+    },
+    {
+      "type": "char_pose",
+      "content": "茜音",
+      "position": "center",
+      "poseName": "thinking"
+    },
+    {
+      "type": "text",
+      "speakerName": "narration",
+      "content": "そんな彼女は俺という部外者の存在にも気づかない程に、目の前の作業に集中しているようだった。"
+    },
+    {
+      "type": "text",
+      "speakerName": "narration",
+      "content": "俺の視線に気づいたのか、彼女が忌々しげに顔を上げた。"
+    },
+    {
+      "type": "char_pose",
+      "content": "茜音",
+      "position": "center",
+      "poseName": "normal"
+    }
+  ]
+}

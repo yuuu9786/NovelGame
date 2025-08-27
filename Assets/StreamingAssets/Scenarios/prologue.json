@@ -1,0 +1,185 @@
+{
+  "lines": [
+    {
+      "type": "bg",
+      "content": "bg_classroom"
+    },
+    {
+      "type": "text",
+      "speakerName": "narration",
+      "content": "放課後の教室。\n俺、相沢康貴は一人、窓の外を眺めていた。\n特に何を考えているわけでもなく、ただ静かな時間が過ぎていく。"
+    },
+    {
+      "type": "text",
+      "speakerName": "narration",
+      "content": "その静寂は、突然破られた。"
+    },
+    {
+      "type": "text",
+      "speakerName": "???",
+      "content": "はぁっ…はぁっ…！"
+    },
+    {
+      "type": "text",
+      "speakerName": "康貴",
+      "content": "（…なんだ？）"
+    },
+    {
+      "type": "char_show",
+      "content": "茜音",
+      "position": "center",
+      "poseName": "u_worry"
+    },
+    {
+      "type": "char_pose",
+      "content": "茜音",
+      "position": "center",
+      "poseName": "u_normal"
+    },
+    {
+      "type": "text",
+      "speakerName": "茜音",
+      "content": "あ、あのっ…！相沢…康貴くん…だよね？"
+    },
+    {
+      "type": "text",
+      "speakerName": "康貴",
+      "content": "え、ああ、そうだけど…。君は？"
+    },
+    {
+      "type": "char_pose",
+      "content": "茜音",
+      "position": "center",
+      "poseName": "u_thinking"
+    },
+    {
+      "type": "text",
+      "speakerName": "康貴",
+      "content": "（見たことない顔だ。うちの学年の生徒だろうか…それにしても、すごい息切れだ）"
+    },
+    {
+      "type": "char_pose",
+      "content": "茜音",
+      "position": "center",
+      "poseName": "u_smile"
+    },
+    {
+      "type": "text",
+      "speakerName": "茜音",
+      "content": "わたし、隣のクラスの佐藤茜音！\nずっと前から、あなたのこと見てました！"
+    },
+    {
+      "type": "text",
+      "speakerName": "康貴",
+      "content": "（見てたって…全く気づかなかったぞ…）"
+    },
+    {
+      "type": "text",
+      "speakerName": "茜音",
+      "content": "好きです！付き合ってください！"
+    },
+    {
+      "type": "text",
+      "speakerName": "康貴",
+      "content": "…………は？"
+    },
+    {
+      "type": "text",
+      "speakerName": "康貴",
+      "content": "え、えっと…ごめん、急すぎて何て言えば…。\nそれに、俺たち話したこともないよな？"
+    },
+    {
+      "type": "char_pose",
+      "content": "茜音",
+      "position": "center",
+      "poseName": "u_thinking"
+    },
+    {
+      "type": "text",
+      "speakerName": "茜音",
+      "content": "え？ 話したことないけど、わたしは康貴くんのこと、いーっぱい知ってるよ？"
+    },
+    {
+      "type": "text",
+      "speakerName": "茜音",
+      "content": "好きな食べ物は生姜焼き定食で、よく聴く音楽はロックバンドの『サイレントノイズ』でしょ？"
+    },
+    {
+      "type": "text",
+      "speakerName": "康貴",
+      "content": "（なんで知ってるんだ…！？というか、少し怖い…！）"
+    },
+    {
+      "type": "char_pose",
+      "content": "茜音",
+      "position": "center",
+      "poseName": "u_smile"
+    },
+    {
+      "type": "text",
+      "speakerName": "茜音",
+      "content": "あ、お返事は今すぐじゃなくてもいいから！\nじゃあ、これからよろしくね、康貴くん！"
+    },
+    {
+      "type": "text",
+      "speakerName": "康貴",
+      "content": "いや、よろしくって言われても…"
+    },
+    {
+      "type": "text",
+      "speakerName": "茜音",
+      "content": "また明日ねー！"
+    },
+    {
+      "type": "char_hide",
+      "content": "茜音"
+    },
+    {
+      "type": "bg",
+      "content": "bg_black"
+    },
+    {
+      "type": "text",
+      "speakerName": "narration",
+      "content": "言うだけ言って、彼女は満足そうに去っていった。\n教室には、再び静寂が戻る。"
+    },
+    {
+      "type": "text",
+      "speakerName": "康貴",
+      "content": "…………嵐のような告白だった。\n佐藤、茜音…か。"
+    },
+    {
+      "type": "bg",
+      "content": "bg_residentalStreetAfternoon"
+    },
+    {
+      "type": "text",
+      "speakerName": "narration",
+      "content": "呆然としたまま、俺は帰路についていた。"
+    },
+    {
+      "type": "text",
+      "speakerName": "康貴",
+      "content": "（結局、どうすればいいんだ、これ…）"
+    },
+    {
+      "type": "text",
+      "speakerName": "康貴",
+      "content": "（それにしても、教室に来ただけであんなに息を切らすなんて…。\nいや、それよりも…明日からどうなるんだ…？）"
+    },
+    {
+      "type": "text",
+      "speakerName": "narration",
+      "content": "夕暮れの空を見上げ、俺は深いため息をついた。\nこうして、俺の平穏な日常は、唐突に終わりを告げたのだった。"
+    },
+    {
+      "type": "choice",
+      "ScenarioBranch": [
+      "branchA.json", "branchB.json"
+      ],
+      "choiceData": [
+       "シナリオ分岐も", "作ってみた"
+      ]
+    }
+  ]
+}
